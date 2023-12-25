@@ -179,8 +179,8 @@ body, html{
     text-align: center;
     position: relative;
     font-weight: 100;
-    font-size: 12px;
-    top: 5%;
+    font-size: 14px;
+    top: 6%;
 }
 .cri:hover i{
   color: #fff;
@@ -190,12 +190,12 @@ body, html{
     width: 100%;
 }
 #btn button{
-    padding: 7px 18px;
+    padding: 9px 20px;
     border-radius: 20px;
     border: none;
     outline: none;
     color: #fff;
-    font-size: 13px;
+    font-size: 14px;
     letter-spacing: 1px;
    background-color: #075369;
    cursor: pointer;
